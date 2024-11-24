@@ -1,0 +1,28 @@
+/* CreatePost Styles */
+form {
+    width: 100%;
+    max-width: 600px;
+    padding: 20px;
+    background-color: #fff;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  textarea {
+    width: 100%;
+    min-height: 150px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+  }
+  
+  input {
+    margin-bottom: 15px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 12px;
+  }
+  
